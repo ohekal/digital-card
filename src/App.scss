@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #23252c;
+  .App {
+    width: 317px;
+    margin: 45px auto;
+    text-align: center;
+    background-color: #1a1b21;
+    border-radius: 10px;
+    header {
+      h1 {
+        color: white;
+        font-weight: Bold;
+        font-size: 25px;
+        margin-top: 25px;
+      }
+      p {
+        color: #f3bf99;
+        margin: 6px;
+        font: {
+          size: 13px;
+          weight: 400px;
+        }
+      }
+      p:nth-of-type(2) {
+        color: #f5f5f5;
+        font-size: 10px;
+      }
+      button {
+        padding: 10px 25px;
+        color: #374151;
+        font-size: 14px;
+        cursor: pointer;
+        margin-right: 17px;
+        border-radius: 6px;
+        i {
+          margin-right: 9px;
+          color: black;
+        }
+      }
+      button:last-child {
+        background-color: #5093e2;
+        color: white;
+        margin-right: auto;
+        i {
+          background-color: white;
+          color: #5093e2;
+          padding: 2px;
+          border-radius: 3px;
+        }
+      }
+    }
+    main {
+      text-align: left;
+      margin: 35px 30px;
+      h3 {
+        color: white;
+        margin-bottom: 5px;
+        font: {
+          size: 16px;
+          weight: 700px;
+        }
+      }
+      p {
+        color: #dcdcdc;
+        margin-bottom: 25px;
+        font: {
+          size: 10px;
+          weight: 400;
+        }
+      }
+    }
+    footer {
+      background-color: #161619;
+      padding: 20px;
+      border-radius: 0px 0px 10px 10px;
+      i {
+        padding: 10px;
+        background-color: #918e9b;
+        border-radius: 6px;
+        margin-right: 24px;
+        cursor: pointer;
+      }
+      i:last-child {
+        margin-right: auto;
+      }
+    }
+  }
+}
