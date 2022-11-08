@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f9f65d4f.css",
-    "main.js": "/static/js/main.a31d03d2.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/pro.png": "/static/media/pro.61da19c9e98ff3132652.png",
-    "index.html": "/index.html",
-    "main.f9f65d4f.css.map": "/static/css/main.f9f65d4f.css.map",
-    "main.a31d03d2.js.map": "/static/js/main.a31d03d2.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/digital-card/static/css/main.d9112177.css",
+    "main.js": "/digital-card/static/js/main.9d667a6b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/digital-card/static/js/787.28cb0dcd.chunk.js",
+    "static/media/pro.png": "/digital-card/static/media/pro.61da19c9e98ff3132652.png",
+    "index.html": "/digital-card/index.html",
+    "main.d9112177.css.map": "/digital-card/static/css/main.d9112177.css.map",
+    "main.9d667a6b.js.map": "/digital-card/static/js/main.9d667a6b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/digital-card/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9f65d4f.css",
-    "static/js/main.a31d03d2.js"
+    "static/css/main.d9112177.css",
+    "static/js/main.9d667a6b.js"
   ]
 }
